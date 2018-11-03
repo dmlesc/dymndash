@@ -1,0 +1,7 @@
+{
+  "server": "server.local",
+  "db": "database-name",
+  "select_field": "field1, field2",
+  "table": "dbo.table-name",
+  "where_field": "field1"
+}
